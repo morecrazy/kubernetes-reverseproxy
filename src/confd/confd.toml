@@ -3,7 +3,7 @@ confdir = "/etc/confd"
 debug = false
 interval = 10
 nodes = [
-  "http://127.0.0.1:4001",
+  "http://120.26.52.43:4001",
 ]
 watch = true
 quiet = true
